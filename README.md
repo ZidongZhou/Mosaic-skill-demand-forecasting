@@ -4,8 +4,7 @@ Article title: The resolution paradox in skill-demand forecasting: Mosaic cross-
 Journal: Applied Intelligence  
 Authors: Zidong Zhou; Yue Meng; Xuanhe Wang; Ke Liu  
 Affiliations: 1 School of Digital Arts, Jiangsu Vocational Institute of Commerce, Nanjing 211168, China; 2 School of Economics and Management, Southeast University, Nanjing 211189, China; 3 School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou 510006, China; 4 School of Physical Education and Sports, Jining Normal University, Ulanqab 012000, China  
-Corresponding author: Yue Meng  
-Corresponding author e-mail: 230268426@seu.edu.cn
+
 
 # Mosaic cross-scale skill-demand forecasting
 
