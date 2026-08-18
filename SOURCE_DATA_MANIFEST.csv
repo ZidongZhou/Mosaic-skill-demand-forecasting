@@ -1,0 +1,7 @@
+file,relative_path,source_repository,repository_verification_date,bytes,sha256
+r0.parquet,dataset/demand/r0.parquet,https://github.com/Job-SDF/benchmark,2026-08-08,284586,fc8ebd497f3100f76bc92078529535055a34c281857d61a8d7bd8034898c6946
+region.parquet,dataset/demand/region.parquet,https://github.com/Job-SDF/benchmark,2026-08-08,912025,27a946c787efcd5f1d2b25ca35bebd1392320d9b10920e771405a664db5e4a3f
+r1.parquet,dataset/demand/r1.parquet,https://github.com/Job-SDF/benchmark,2026-08-08,1304186,cde2c6a8ba7f9487a4e3208f434ccfd318856049ccfd52cbc28f7656ac58e1da
+r2.parquet,dataset/demand/r2.parquet,https://github.com/Job-SDF/benchmark,2026-08-08,2909686,4ada154773b8678ae7d25b42e36a8309a51490bbe9fe059f015bb61724ed4c3c
+r1-region.parquet,dataset/demand/r1-region.parquet,https://github.com/Job-SDF/benchmark,2026-08-08,4517400,745f2f255e8906238f3e48ae417d84f5375c39fdf4063d55a80a143f46b58cf5
+r2-region.parquet,dataset/demand/r2-region.parquet,https://github.com/Job-SDF/benchmark,2026-08-08,9072878,5db1eb42fa86195a2500356742a5571a6614a4e1afa9cb6851c480941f8897a6

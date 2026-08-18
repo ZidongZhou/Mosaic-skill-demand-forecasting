@@ -1,0 +1,12 @@
+# Exact Python packages in the environment used for the revised rerun/QA.
+# PyTorch was the CPU build shown below; platform-specific installation may use a different wheel tag.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+lightgbm==4.6.0
+matplotlib==3.10.8
+torch==2.10.0
+numba==0.65.1
+thrift==0.20.0
+pytest==9.0.2

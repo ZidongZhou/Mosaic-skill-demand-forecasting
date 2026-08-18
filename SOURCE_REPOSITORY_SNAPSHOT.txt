@@ -1,0 +1,8 @@
+Job-SDF source repository snapshot
+
+Repository: https://github.com/Job-SDF/benchmark
+Repository snapshot verification date: 2026-08-08
+Repository HEAD corresponding to that verification date: 00583fc0b0c70b4ed8df6d579e760e89d57ddbb1
+Latest-commit date before verification: 2026-05-15
+
+The exact processed input files used by the study are independently fixed by byte size and SHA-256 digest in SOURCE_DATA_MANIFEST.csv. The repository snapshot identifier records provenance; the file digests identify the analysed inputs.
